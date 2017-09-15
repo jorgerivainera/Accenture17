@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hola mundo hoy 2
-=======
 Hola mundo hoy 3
->>>>>>> 6a7b765d67e4c4e6562d74c57aa80a28b6c730a4
