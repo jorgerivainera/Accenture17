@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola mundo hoy 8 local!
+=======
+Hola mundo hoy 9
+>>>>>>> 8f8f74b495a233aef927109d73bb69efcaaa46ad
